@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="{% asset 'base.css' %}" />
 </head>
 <body>
     <nav>
@@ -8,6 +10,8 @@
             <a href={% url "page", page %}>{{ page.title }}</a>
         {% endfor %}
     </nav>
-    {% block content_area %}
-    {% endblock %}
+    <div class="content-width">
+        {% block content_area %}
+        {% endblock %}
+    </div>
 </body>
