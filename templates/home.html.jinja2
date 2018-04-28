@@ -1,4 +1,19 @@
 {% extends 'base.html.jinja2' %}
-{% block content_area %}
-Home!
+{% block body %}
+<div class='home-header'>
+    <div class='content-width'>
+        <img src="{% asset 'pa-logo-colour.svg' %}" height=140 />
+    </div>
+</div>
+<div class="content-width">
+    <p>
+        Python Adelaide is a free monthly meetup for software developers, systems administrators, teachers, students, hobbyists, tinkerers, and anyone else who uses the Python programming language.
+    </p>
+    <p>
+        You can <a href="https://meetup.com/pythonadelaide">get notified about, or RSVP to, our next session on Meetup.com</a>, or <a href="{{ slack_url }}">join our Slack workspace</a> to chat with the community online.
+    </p>
+    <p>
+        Read our <a href="/conduct/">Code of Conduct</a> or find out about <a href="/speaking/">speaking at Python Adelaide</a>.
+    </p>
+</div>
 {% endblock %}

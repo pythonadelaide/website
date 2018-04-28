@@ -5,13 +5,16 @@
     <link rel="stylesheet" type="text/css" href="{% asset 'base.css' %}" />
 </head>
 <body>
-    <nav>
-        {% for page in pages %}
-            <a href={% url "page", page %}>{{ page.title }}</a>
-        {% endfor %}
-    </nav>
-    <div class="content-width">
-        {% block content_area %}
-        {% endblock %}
-    </div>
+    {% block body %}
+        <nav>
+            <a href="{% url "home" %}">Home</a>
+            {% for page in pages %}
+                <a href="{% url "page", page %}">{{ page.title }}</a>
+            {% endfor %}
+        </nav>
+        <div class="content-width">
+            {% block content_area %}
+            {% endblock %}
+        </div>
+    {% endblock %}
 </body>

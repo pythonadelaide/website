@@ -10,6 +10,11 @@ html {
     line-height: 1.4em;
 }
 
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 @media only screen and (max-width: 400px){
     html {
         font-size: 18px;
@@ -36,4 +41,17 @@ h2 {
 
 h3, h4, h5, h6 {
     font-size: 1rem;
+}
+
+/* home page */
+
+.home-header {
+    background-image: url('skyline.jpg');
+    background-size: cover;
+    background-position: center right;
+    height: 400px;
+    /* align everything within to the bottom */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
