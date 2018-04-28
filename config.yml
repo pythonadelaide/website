@@ -1,2 +1,5 @@
 project-name: Your project name
 base-path: /
+context:
+  dynamic:
+    pages: session.query(Page).all()

@@ -3,6 +3,11 @@
 <head>
 </head>
 <body>
+    <nav>
+        {% for page in pages %}
+            <a href={% url "page", page %}>{{ page.title }}</a>
+        {% endfor %}
+    </nav>
     {% block content_area %}
     {% endblock %}
 </body>
