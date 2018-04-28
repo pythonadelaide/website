@@ -1,0 +1,3 @@
+[build]
+command = "pipenv install; pipenv run statik"
+publish = "public"
