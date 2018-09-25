@@ -1,3 +1,11 @@
 [build]
 command = "pipenv install; pipenv run statik"
 publish = "public"
+
+[[redirects]]
+from = "/slack"
+to = "https://join.slack.com/t/pythonadelaide/shared_invite/enQtMjk2NDM1ODAxNDc1LTZhMjc0NTYwYTlhNWRlNzNkM2U3ZjU0ZWJmZTYyOTU0YzE2NjJmMTllZWNmMWIxYjI5ODRmYTZiM2JmOTQ4YjA"
+
+[[redirects]]
+from = "/feedback"
+to = "https://adambrenecki.typeform.com/to/clwIU1"

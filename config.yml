@@ -1,7 +1,5 @@
 project-name: Your project name
 base-path: /
 context:
-  static:
-    slack-url: https://join.slack.com/t/pythonadelaide/shared_invite/enQtMjk2NDM1ODAxNDc1LTZhMjc0NTYwYTlhNWRlNzNkM2U3ZjU0ZWJmZTYyOTU0YzE2NjJmMTllZWNmMWIxYjI5ODRmYTZiM2JmOTQ4YjA
   dynamic:
     pages: session.query(Page).all()
