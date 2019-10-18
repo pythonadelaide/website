@@ -2,7 +2,7 @@
 title: Speaking at Python Adelaide
 ---
 
-If you'd like to present a talk at Python Adelaide, either for our first meetup or on subsequent ones, please let us know by [submitting your talk idea in this form](https://adambrenecki.typeform.com/to/BHVpel) or emailing [adam@brenecki.id.au](mailto:adam@brenecki.id.au)!
+If you'd like to present a talk at Python Adelaide, either for our first meetup or on subsequent ones, please let us know by [submitting your talk idea in this form](https://adambrenecki.typeform.com/to/BHVpel) or emailing [leigh@brenecki.id.au](mailto:leigh@brenecki.id.au)!
 
 
 ## But what should I talk about?

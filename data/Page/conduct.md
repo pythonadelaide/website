@@ -11,7 +11,7 @@ If another participant’s behaviour is making you feel unsafe, uncomfortable, o
 - Matt Magin, [matt.azmoo@gmail.com](mailto:matt.azmoo@gmail.com)
 
 
-- Adam Brenecki, [adam@brenecki.id.au](mailto:adam@brenecki.id.au)
+- Leigh Brenecki, [leigh@brenecki.id.au](mailto:leigh@brenecki.id.au)
 
 
 
