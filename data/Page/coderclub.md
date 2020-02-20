@@ -23,7 +23,7 @@ Welcome to Python Adelaide Coder Club! Here's some things you might like to know
 
 ## Resources for learning Python
 
-If you're completely new to Python, and you're not sure where to start, here are some resources that the Python Adelaide community have used before:
+If you're completely new to Python, and you're not sure where to start, here are some resources to try:
 
+- [How do I start learning Python?](https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/) is an article that recommends different resources for learning Python from different backgrounds (new to programming, hobbyist, developer/SWE, scientist, software tester, kid).
 - [Codecademy's _Learn Python_ course](https://www.codecademy.com/learn/learn-python) (free) introduces you to Python in an interactive, online environment, so you don't need to install anything on your machine.
-- [_Learn Python 3 The Hard Way_](https://learnpythonthehardway.org) ($29.99 USD; free trial available) is a book that takes you through setting up and writing Python on your own computer.
