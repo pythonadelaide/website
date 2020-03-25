@@ -8,10 +8,7 @@ As part of this, we have a code of conduct which details the standards of behavi
 
 If another participant’s behaviour is making you feel unsafe, uncomfortable, or threatened, you can contact an organiser using the details below:
 
-- Matt Magin, [matt.azmoo@gmail.com](mailto:matt.azmoo@gmail.com)
-
-
-- Leigh Brenecki, [leigh@brenecki.id.au](mailto:leigh@brenecki.id.au)
+- Leigh Brenecki, [l@leigh.net.au](mailto:l@leigh.net.au) or via Slack
 
 
 
