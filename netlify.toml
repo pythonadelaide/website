@@ -4,7 +4,7 @@ publish = "public"
 
 [[redirects]]
 from = "/slack"
-to = "https://join.slack.com/t/pythonadelaide/shared_invite/enQtMjk2NDM1ODAxNDc1LWY0ODYxNjgzOTJhZTRmM2FiY2ZkODQ0MjVhNTkwMGQwOWQ3NjE3OWYwM2I3MTNmMDVkODdiZDRhNjA5MGM2MWU"
+to = "https://join.slack.com/t/pythonadelaide/shared_invite/zt-dfwcdxxu-NOEpVNuqLL1yipcbcHqMHQ"
 
 [[redirects]]
 from = "/feedback"
